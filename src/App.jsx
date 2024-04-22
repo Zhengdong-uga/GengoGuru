@@ -24,6 +24,7 @@ import {
   Button,
 } from "@mui/material";
 
+
 function App() {
   const [currentSentences, setCurrentSentences] = useState([]);
   const [showEnglish, setShowEnglish] = useState(true);
@@ -73,17 +74,22 @@ function App() {
         </Toolbar>
       </AppBar>
 
+
       {/* Controls */}
       <Container maxWidth="lg">
-        <Typography variant="h4" component="h1" sx={{ mt: 4, mb: 2 }}>
-          Language Learning Tool
+        <Typography variant="h2" component="h1" sx={{ mt: 4, mb: 2, fontWeight: 'bold' }}>
+        Welcome to Gengo Guru
         </Typography>
         <Grid container spacing={3}>
           <Grid item xs={12}>
             <Paper elevation={3} sx={{ padding: 2 }}>
-              <Typography variant="h6" component="h2" sx={{ marginBottom: 2 }}>
+              <Typography variant="h6" component="h2" sx={{ marginBottom: 2, fontWeight: 'bold' }}>
                 Language Selector
               </Typography>
+            Select your desired language(French or Japanese) from the drop-down list.
+            
+              <br></br>
+              <br></br>
 
               <Autocomplete
                 disablePortal
@@ -98,6 +104,8 @@ function App() {
                 disableClearable
               />
 
+              <br></br>
+              Select number of sentences you want to generate and their translations. 
               <Controls
                 numSentences={numSentences}
                 onNumChange={handleNumChange}
