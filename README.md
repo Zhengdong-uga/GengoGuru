@@ -68,7 +68,7 @@ For grading purposes, please focus on the following files and directories:
 The JSON files `frenchSentences.json` and `japSentences.json` serve as the source for the sentence data, ensuring that users have access to quality content for language learning.
 
 
-# Repo Template:
+## Repo Template:
 React + Vite
 
 Currently, two official plugins are available:
