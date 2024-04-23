@@ -27,12 +27,12 @@ I successfully implemented several features that enhance the learning experience
 - **Responsive Design**: Utilizing Material-UI, the app is responsive across various devices.
 - **Interactive Learning Tools**: Including language selection, sentence generation, and translation toggling.
 - **User Engagement Features**: Sentence recording and a feedback form allow for user interaction and improvement based on real user experiences.
-These functionalities directly address our initial goals of creating an interactive and user-friendly language learning tool.
+These functionalities directly address the initial goals of creating an interactive and user-friendly language learning tool.
 
 ## Limitations and Challenges
 
 Few challenges during the development were faced
-1. **API Limitations**: Difficulty in finding a Japanese API that offers sentences rather than just words. We resorted to using static JSON files due to the unavailability of suitable APIs.
+1. **API Limitations**: Difficulty in finding a Japanese API that offers sentences rather than just words. I resorted to using static JSON files due to the unavailability of suitable APIs.
 2. **Integration Issues**: Challenges in integrating the Google Translate API post-demo, which required further exploration and assistance.
 
 ## Struggles
@@ -50,7 +50,7 @@ Potential future enhancements include:
 
 ## Conclusion
 
-Developing Gengo Guru was a challenging yet rewarding experience. This project not only achieved our goals but also provided significant learning in app development and user interface design. We look forward to expanding its capabilities and reaching more users in the future.
+Developing Gengo Guru was a challenging yet rewarding experience. This project not only achieved the goals but also provided significant learning in app development and user interface design. We look forward to expanding its capabilities and reaching more users in the future.
 
 ## Project Structure
 
