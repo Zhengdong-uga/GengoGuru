@@ -14,7 +14,7 @@ The final iteration of Gengo Guru includes several key features and functionalit
 - **Language Selection**: A dropdown list allows users to select the language of the sentences.
 - **Sentence Generation**: Users can type or select the number of sentences they wish to generate.
 - **Toggle Translation**: Users can choose to show or hide translations, aiding in learning and retention.
-- **Sentence Record**: Users can record sentences to track their learning progress.
+- **Sentence Record(Local Storage)**: Users can record sentences to track their learning progress. The web can store the recorded sentences even after refreshing the page.
 - **Feedback Form**: A form for users to provide feedback, helping improve future versions of the app.
   
 You can view the live application here: [https://zhengdong-uga.github.io/GengoGuru/]
