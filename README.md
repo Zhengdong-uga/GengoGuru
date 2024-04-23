@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**Gengo Guru** is a responsive mobile application designed as [a language learning tool that allows users to generate random sentences in the languages they want to learn]. The primary purpose of this application is to function like flashcards, helping users become familiar with random language sentences. Users can control the number of sentences they generate at a time and toggle translations on or off. 
+**Gengo Guru** is a responsive mobile application designed as **a language learning tool that allows users to generate random sentences in the languages they want to learn**. The primary purpose of this application is to function like flashcards, helping users become familiar with random language sentences. Users can control the number of sentences they generate at a time and toggle translations on or off. 
 
 The application utilizes Material-UI (MUI) libraries for a smooth and responsive user interface. 
 https://mui.com/material-ui/getting-started/
