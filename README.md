@@ -50,7 +50,7 @@ Potential future enhancements include:
 
 ## Conclusion
 
-Developing Gengo Guru was a challenging yet rewarding experience. This project not only achieved the goals but also provided significant learning in app development and user interface design. We look forward to expanding its capabilities and reaching more users in the future.
+Developing Gengo Guru was a challenging yet rewarding experience. This project not only achieved the goals but also provided significant learning in app development and user interface design. I look forward to use this app to learn some languages that I'm always interested to know.
 
 ## Project Structure
 
